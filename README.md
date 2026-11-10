@@ -1,7 +1,5 @@
 # Demonstration-Free Skill Composition for Navigation and Manipulation
 
-**Madeleine Nouri, Gelareh Mohammadi, and Francisco Cruz**
-
 *Australasian Conference on Robotics and Automation (ACRA 2026)*
 
 We study how reinforcement learning policies trained on individual skills can be combined and reused to solve longer tasks without expert demonstrations.
